@@ -1,0 +1,24 @@
+{
+  "name": "livevalidation",
+  "main": "livevalidation.js",
+  "version": "0.0.1",
+  "authors": [
+    "ippa lix <ippa@ippa.se>"
+  ],
+  "description": "HTML5 live validation",
+  "keywords": [
+    "live",
+    "validation",
+    "livevalidation",
+    "form"
+  ],
+  "license": "GPL",
+  "homepage": "http://github.com/ippa/livevalidation",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
